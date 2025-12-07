@@ -1,4 +1,4 @@
-# TMS v2.28.0 /admin/blog/comment/create interface XSS vulnerability
+# TMS v2.28.0 /admin/blog/comment/create interface Cross-Site Scripting (XSS) vulnerability
 >Source code repository：[https://gitee.com/ketr/jepaas-release](https://github.com/xiweicheng/tms)
 >
 >Affected version: v2.28.0
