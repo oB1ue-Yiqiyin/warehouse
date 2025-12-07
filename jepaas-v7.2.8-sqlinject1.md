@@ -1,4 +1,4 @@
-# JEPaaS /je/postil/postil/loadPostil interface SQL injection vulnerability
+# JEPaaS v7.2.8 /je/postil/postil/loadPostil interface SQL injection vulnerability
 
 JEPaaS /je/postil/postil/loadPostil 接口 SQL 注入漏洞
 
