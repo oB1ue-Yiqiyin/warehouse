@@ -1,12 +1,11 @@
 # TMS v2.28.0 /admin/blog/comment/create interface Cross-Site Scripting (XSS) vulnerability
->Source code repository：[https://gitee.com/ketr/jepaas-release](https://github.com/xiweicheng/tms)
+>Source code repository：[https://github.com/xiweicheng/tms](https://github.com/xiweicheng/tms)
 >
 >Affected version: v2.28.0
 >
->Official website：[https://jepaas.com/download](https://gitee.com/xiweicheng/tms)
+>Official website：[https://gitee.com/xiweicheng/tms](https://gitee.com/xiweicheng/tms)
 >
->releases：[https://example.jepaas.com/login.html
-](https://github.com/xiweicheng/tms/releases/tag/v2.28.0)
+>releases：[https://github.com/xiweicheng/tms/releases/tag/v2.28.0](https://github.com/xiweicheng/tms/releases/tag/v2.28.0)
 
 ## 1、分析（analysis）
 
